@@ -1,0 +1,9 @@
+{
+    "Usuarios": {
+        "cédula": "1234567890 ",
+        "nombres": "Pepito ",
+        "apellido": "Perez",
+        "direccion": "cra 15 27",
+        "Celular": " 22112432"
+    }
+}
